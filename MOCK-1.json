@@ -1,0 +1,209 @@
+[
+  {
+    "question": "Which South Indian kingdom was famous for its naval power?",
+    "options": [
+      "Chalukya",
+      "Chola",
+      "Hoysala",
+      "Pandya"
+    ],
+    "correct_answer": "Chola",
+    "explanation": "The Cholas were a powerful Tamil dynasty known for their extensive maritime trade and naval prowess."
+  },
+  {
+    "question": "Who ordered the transfer of the capital from Delhi to Daulatabad?",
+    "options": [
+      "Sultan Firoz Tughlaq",
+      "Sultan Ghiyasuddin Tughlaq",
+      "Sultan Mubarak",
+      "Sultan Muhammad bin Tughlaq"
+    ],
+    "correct_answer": "Sultan Muhammad bin Tughlaq",
+    "explanation": "Muhammad bin Tughlaq was a controversial ruler who made several ambitious but often unsuccessful reforms, including the relocation of the capital."
+  },
+  {
+    "question": "With which Rajput clan did Akbar first establish matrimonial relations?",
+    "options": [
+      "Bundelas",
+      "Kachwahas",
+      "Rathores",
+      "Sisodias"
+    ],
+    "correct_answer": "Kachwahas",
+    "explanation": "Akbar's alliance with the Kachwahas was a strategic move to consolidate his power in northern India and gain the support of Rajput rulers."
+  },
+  {
+    "question": "Which of the following factories in Bengal was established by the Portuguese?",
+    "options": [
+      "Bandel",
+      "Chinsurah",
+      "Hooghly",
+      "Srirampur"
+    ],
+    "correct_answer": "Bandel",
+    "explanation": "Bandel was a Portuguese trading post established in Bengal during the 16th century."
+  },
+  {
+    "question": "Which ruler granted the diwani to the East India Company?",
+    "options": [
+      "Farrukhsiyar",
+      "Shah Alam I",
+      "Shah Alam II",
+      "Shuja-ud-Daula"
+    ],
+    "correct_answer": "Shah Alam I",
+    "explanation": "The diwani, the right to collect revenue, was granted to the East India Company by Shah Alam I after the Battle of Plassey."
+  },
+  {
+    "question": "The Hunter Commission report focused on the development of:",
+    "options": [
+      "Girls' education",
+      "Higher education",
+      "Primary education",
+      "Technical education"
+    ],
+    "correct_answer": "Primary education",
+    "explanation": "The Hunter Commission recommended reforms in primary education in India."
+  },
+  {
+    "question": "Who started the Marathi weekly 'Bahishkrit Bharat'?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "B.R. Ambedkar",
+      "V.D. Savarkar",
+      "Gopal Krishna Gokhale"
+    ],
+    "correct_answer": "B.R. Ambedkar",
+    "explanation": "'Bahishkrit Bharat' was a newspaper started by B.R. Ambedkar to advocate for the rights of the Dalit community."
+  },
+  {
+    "question": "Dyarchy was introduced in India through:",
+    "options": [
+      "The Government of India Act, 1935",
+      "Morley-Minto Reforms",
+      "Montagu-Chelmsford Reforms",
+      "Simon Commission Plan"
+    ],
+    "correct_answer": "The Government of India Act, 1935",
+    "explanation": "Dyarchy, a system of dual governance, was introduced in British India through the Government of India Act, 1935."
+  },
+  {
+    "question": "The first Indian to contest elections to the British House of Commons was:",
+    "options": [
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale",
+      "Feroze Shah Mehta",
+      "W.C. Banerjee"
+    ],
+    "correct_answer": "Dadabhai Naoroji",
+    "explanation": "Dadabhai Naoroji was the first Indian to be elected to the British Parliament."
+  },
+  {
+    "question": "Which of the following statements about the Home Rule League is incorrect?",
+    "options": [
+      "The idea was first proposed by Annie Besant in 1914-15.",
+      "The idea was first proposed by Annie Besant in 1914-15."
+    ],
+    "correct_answer": "The idea was first proposed by Annie Besant in 1914-15.",
+    "explanation": "This statement is true. Annie Besant did propose the idea of a Home Rule League in 1914-15."
+  },
+  {
+    "question": "Which of the following states is not part of the Chota Nagpur Plateau?",
+    "options": [
+      "Bihar",
+      "Jharkhand",
+      "Odisha",
+      "West Bengal"
+    ],
+    "correct_answer": "Odisha",
+    "explanation": "The Chota Nagpur Plateau is primarily located in Jharkhand, Bihar, and parts of West Bengal. Odisha is not part of this region."
+  },
+  {
+    "question": "Sriharikota Island is located near:",
+    "options": [
+      "Chilka Lake",
+      "Godavari Estuary",
+      "Mahanadi Estuary",
+      "Pulicat Lake"
+    ],
+    "correct_answer": "Godavari Estuary",
+    "explanation": "Sriharikota Island, a major spaceport in India, is located near the mouth of the Godavari River."
+  },
+  {
+    "question": "The Indian sanctuary with the highest population of elephants is:",
+    "options": [
+      "Manas",
+      "Kaziranga",
+      "Dudhwa",
+      "Nanda Devi"
+    ],
+    "correct_answer": "Manas",
+    "explanation": "Manas National Park in Assam is renowned for its large population of elephants."
+  },
+  {
+    "question": "The Indian Pulses Research Institute is located in:",
+    "options": [
+      "Lucknow",
+      "Kanpur",
+      "Faizabad",
+      "Varanasi"
+    ],
+    "correct_answer": "Lucknow",
+    "explanation": "The Indian Pulses Research Institute is situated in Lucknow, Uttar Pradesh."
+  },
+  {
+    "question": "Match List-I (Mining Areas) with List-II (Minerals) and select the correct answer using the codes given below: List-I (Mining Areas): A. Gurumahisani, B. Talcher, C. Jadugoda, D. Zawar List-II (Minerals): 1. Zinc, 2. Uranium, 3. Iron Ore, 4. Coal",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-4, B-3, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-2, C-1, D-4"
+    ],
+    "correct_answer": "A-4, B-3, C-2, D-1",
+    "explanation": "Gurumahisani is known for coal mining (4). Talcher is associated with coal mining (3). Jadugoda is a major uranium mining area (2). Zawar is famous for zinc mining (1)."
+  },
+  {
+    "question": "Arrange the following ports of India in the order of their location from north to south: 1. Kochi, 2. Mormugao, 3. New Mangalore, 4. Nhava Sheva",
+    "options": [
+      "2, 1, 3, 4",
+      "4, 2, 3, 1",
+      "4, 2, 1, 3",
+      "2, 3, 4, 1"
+    ],
+    "correct_answer": "4, 2, 1, 3",
+    "explanation": "Starting from the north, the ports are: Nhava Sheva, Mormugao, Kochi, and New Mangalore."
+  },
+  {
+    "question": "Which African river crosses the Tropic of Capricorn twice?",
+    "options": [
+      "Congo",
+      "Limpopo",
+      "Niger",
+      "Zambezi"
+    ],
+    "correct_answer": "Zambezi",
+    "explanation": "The Zambezi River is the only major African river that crosses the Tropic of Capricorn twice."
+  },
+  {
+    "question": "Which of the following is not correctly matched?",
+    "options": [
+      "Chinook - United States",
+      "Buran - Sahara",
+      "Blizzard - Chile",
+      "Sirocco - Iran"
+    ],
+    "correct_answer": "Blizzard - Chile",
+    "explanation": "Blizzards are primarily associated with cold, snowy climates like those in Canada, the United States, and Russia. Chile, being in South America, typically doesn't experience blizzards."
+  },
+  {
+    "question": "Entisol is:",
+    "options": [
+      "Alluvial soil",
+      "Black cotton soil",
+      "Laterite soil",
+      "Red soil"
+    ],
+    "correct_answer": "Alluvial soil",
+    "explanation": "Entisols are soils that are recently formed, including alluvial soils, which are deposited by rivers and streams."
+  }
+]
